@@ -13,4 +13,4 @@ size_t size(){return size_;}
 
 ## 测试代码  
 skiptest.cc  
-## 随机数生成式从leveldb中扒下来的
+## 随机数生成是从leveldb中扒下来的
